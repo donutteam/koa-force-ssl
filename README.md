@@ -18,8 +18,8 @@ const app = new Koa();
 
 const forceSSLMiddleware = new ForceSSLMiddleware();
 
-// Be sure to add the execute function of the instance
-//	and NOT the instance itself
+// Be sure to add the execute function on the instance
+// and NOT the instance itself
 app.use(forceSSLMiddleware.execute);
 ```
 
