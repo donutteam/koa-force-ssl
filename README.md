@@ -7,7 +7,7 @@ A class for creating Koa middlewares that redirect requests to their HTTPS count
 Install the package with NPM:
 
 ```
-npm install --save-dev @donutteam/koa-force-ssl
+npm install @donutteam/koa-force-ssl
 ```
 
 ## Usage
