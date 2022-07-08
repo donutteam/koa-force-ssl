@@ -14,7 +14,7 @@ npm install @donutteam/koa-force-ssl
 To use this class, simply instantiate an instance and add it to your Koa stack:
 
 ```js
-import Koa from "Koa";
+import Koa from "koa";
 
 import { ForceSSLMiddleware } from "@donutteam/koa-force-ssl";
 
