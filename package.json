@@ -1,6 +1,6 @@
 {
   "name": "@donutteam/koa-force-ssl",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A class for creating Koa middlewares that redirect incoming requests to HTTPS.",
   "main": "./index.js",
   "scripts": {
